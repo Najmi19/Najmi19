@@ -1,11 +1,10 @@
-## : NAJMI Mehdi
+##  NAJMI Mehdi
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/mehdi-najmi-111358177/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:najmimehdi70@gmail.com)
 
 Actuellement je suis étudiant à la ESIEA école d'ingénieur à Paris France.
 
-
-### 🚀 Languages
+## Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
