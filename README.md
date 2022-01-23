@@ -1,13 +1,9 @@
 ##  Hey, I'm Mehdi! Welcome 🤗 -------------------------- ![](https://visitor-badge.glitch.me/badge?page_id=Najmi19)
-p align="center">
-	<a href="https://www.linkedin.com/in/mehdi-najmi-111358177/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
- 
-  <a href="mailto:najmimehdi70@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
+
+<a href="https://www.linkedin.com/in/mehdi-najmi-111358177/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> <a href="mailto:najmimehdi70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
   <img src="png1.jpg">
 
