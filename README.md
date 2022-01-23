@@ -1,6 +1,9 @@
 ##  Hey, I'm Mehdi! Welcome 🤗 -------------------------- ![](https://visitor-badge.glitch.me/badge?page_id=Najmi19)
-[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/mehdi-najmi-111358177/)
-[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:najmimehdi70@gmail.com)
+
+  <img src="png1.jpg"> 
+  [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/mehdi-najmi-111358177/) 
+  [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:najmimehdi70@gmail.com)
+
 
 Actuellement je suis étudiant à la ESIEA école d'ingénieur à Paris France.
 
